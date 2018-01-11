@@ -1,0 +1,5 @@
+A simple javascript utility for function binding memoization. It's motivated by the requirement of dynamic binding in React component rendering.
+
+Install with npm:
+
+npm install memobind --save
